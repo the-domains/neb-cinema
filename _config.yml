@@ -1,0 +1,28 @@
+name: neb.Cinema
+favicon: null
+layout_spectrum: 0.6904938747175038
+typography_spectrum: 0.41911247279495
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3684561662375927
+  lightness: 0.8764280141331255
+  saturation: 0.9083445882424712
+  rhythmicContrast: 0.3494801167398691
+purpose: []
