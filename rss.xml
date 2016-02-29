@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[neb.Cinema]]></title>
         <description><![CDATA[neb.Cinema]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/neb-cinema/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 00:54:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 01:47:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/neb-cinema/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[001 : Letter from the Editor]]></title>
-            <description><![CDATA[<article><h1>001 : Letter from the Editor</h1><p>I'm excited. Just over a year ago, I backed a Kickstarter project with a profound goal: to democratize web design by vastly simplifying the process of building beautiful sites. At the time, I was actively into procedural design, exploring the use of algorithmic processes to produce digital media. "thegrid.io" caught my eye as a natural extension of this practice, and I signed up for the open beta as soon as able. If all goes well, this post represents my first foray into a web platform that is fundamentally different than anything before it. And that's really, really awesome. And then some.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75da3fc0e973a8a317d515f8304dc2b4045e053e.jpg"></article>]]></description>
-            <link>undefined001-letter-from-the-editor/index.html</link>
+            <description><![CDATA[<article><h1>001 : Letter from the Editor</h1><p>For me, there are a number of reasons The Grid matters. First, using AI to build websites that react and adjust themselves to creators' content sounds suspiciously like the "genetic CMS" concept I was pushing in '08. The platform has nearly all the features I was after, thus saving me a world of coding hurt. Second, in allowing site creators to focus solely on content and editorial, The Grid paves the way for more inclusive business models. Design costs have a way of eating away at content budgets, and while small enterprises might benefit from good design, they often can't afford it. Thirdly, it's highly mobile. I now have the ability to shoot, edit, and publish from my cellular iPad from wherever and whenever I happen to be. Viva la instant gratification. :)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75da3fc0e973a8a317d515f8304dc2b4045e053e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/neb-cinema/001-letter-from-the-editor/index.html</link>
             <guid isPermaLink="false">f64e69a9-989c-461a-9b5d-9e80aaffc215</guid>
-            <pubDate>Mon, 29 Feb 2016 00:53:54 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 01:47:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
