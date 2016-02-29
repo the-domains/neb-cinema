@@ -6,25 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Hello world! The first post, wherein I describe why I think The Grid is cool, and just why the hell I'm blogging."
-datePublished: '2016-02-29T00:53:54.700Z'
-dateModified: '2016-02-29T00:53:42.075Z'
+datePublished: '2016-02-29T01:47:25.756Z'
+dateModified: '2016-02-29T01:44:19.962Z'
 title: '001 : Letter from the Editor'
 author: []
+sourcePath: _posts/2016-02-29-001-letter-from-the-editor.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-29-001-letter-from-the-editor.md
-published: true
 url: 001-letter-from-the-editor/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b26a8706-06d1-4c87-a727-b969d8b98fe3.jpg)
-
-**Letter from the editor:**
 
 I'm excited. Just over a year ago, I backed a Kickstarter project with a profound goal: to democratize web design by vastly simplifying the process of building beautiful sites. At the time, I was actively into procedural design, exploring the use of algorithmic processes to produce digital media. "thegrid.io" caught my eye as a natural extension of this practice, and I signed up for the open beta as soon as able. If all goes well, this post represents my first foray into a web platform that is fundamentally different than anything before it. And that's really, really awesome. And then some.
 
