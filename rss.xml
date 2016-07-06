@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[neb.Cinema]]></title>
         <description><![CDATA[neb.Cinema]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://nebcinema.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 20:40:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jul 2016 19:46:13 GMT</lastBuildDate>
+        <atom:link href="http://nebcinema.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Treading Water]]></title>
+            <description><![CDATA[<article><h1>Treading Water</h1><p>When a CMS is this buggy, it’s rarely reffered to as a “Beta” release. Watch as I frantically tap, searching for some small success to pin up my optimism. Don’t hold your breath.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7b164e9-99a7-46cf-bcb5-674388b22807.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0aaa11bb-e57a-4147-a958-e172658c48b8.jpg</link>
+            <guid isPermaLink="false">cbade759-b2e5-4a14-af3d-e9941c766ab7</guid>
+            <pubDate>Wed, 06 Jul 2016 19:45:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[001 : Letter from the Editor]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b26a8706-06d1-4c87-a727-b969d8b98fe3.jpg">]]></description>
-            <link>undefined001-letter-from-the-editor/index.html</link>
+            <link>http://nebcinema.com/001-letter-from-the-editor/index.html</link>
             <guid isPermaLink="false">f64e69a9-989c-461a-9b5d-9e80aaffc215</guid>
             <pubDate>Tue, 05 Jul 2016 20:40:00 GMT</pubDate>
         </item>
