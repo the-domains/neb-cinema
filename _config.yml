@@ -19,6 +19,10 @@ analytics:
   google: UA-80328576-1
   facebook: null
   twitter: null
+author:
+  name: Neb Nosam
+  email: nebwise@gmail.com
+  url: nebcinema.com
 name: neb.Cinema
 cta:
   domain: null
